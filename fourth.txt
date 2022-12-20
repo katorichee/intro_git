@@ -1,0 +1,2 @@
+fourth file.
+initial state is not staged.
